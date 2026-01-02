@@ -1,0 +1,641 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./document.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty)
+(/usr/share/texmf/tex/latex/lm/lmodern.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/footnotehyper/footnotehyper.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
+(/usr/share/texlive/texmf-dist/tex/generic/soul/soul-ori.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def))
+(/usr/share/texlive/texmf-dist/tex/latex/xurl/xurl.sty)
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./document.aux) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd)
+(/usr/share/texmf/tex/latex/lm/omllmm.fd)
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd)
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+Overfull \hbox (41.76366pt too wide) in paragraph at lines 111--111
+ []\T1/lmr/bx/n/10 (-20) [PLACEHOLDER: 
+
+Overfull \hbox (14.61592pt too wide) in paragraph at lines 111--111
+ \T1/lmr/m/it/10 (-20) dia/image1.png 
+
+Overfull \hbox (1.10078pt too wide) in paragraph at lines 111--111
+ [] 
+
+Overfull \vbox (77.79999pt too high) detected at line 111
+
+Overfull \vbox (28.79999pt too high) detected at line 125
+
+Overfull \hbox (25.6788pt too wide) in paragraph at lines 128--129
+\T1/lmr/m/n/10 (-20) L'HABILLEMENT  
+! Extra }, or forgotten \endgroup.
+\@endpbox ...\@arstrutbox \color@endgroup \egroup 
+                                                  \the \LT@p@ftn \global \LT...
+l.157 \textbf
+             {Domaine} : Lean manufacturing et excellence opérationnelle
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.157 \textbf
+             {Domaine} : Lean manufacturing et excellence opérationnelle
+! Missing } inserted.
+<inserted text> 
+                }
+l.157 \textbf
+             {Domaine} : Lean manufacturing et excellence opérationnelle
+
+! LaTeX Error: \begin{longtable} on input line 92 ended by \end{quote}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 \end{quote}
+                 
+
+! LaTeX Error: \begin{longtable} on input line 92 ended by \end{quote}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.173 \end{quote}
+                 \strut
+! Missing } inserted.
+<inserted text> 
+                }
+l.174 \end{minipage}
+                     \\
+! Missing } inserted.
+<inserted text> 
+                }
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Missing { inserted.
+<inserted text> 
+                {
+l.174 \end{minipage}
+                     \\
+! Missing } inserted.
+<inserted text> 
+                }
+l.174 \end{minipage}
+                     \\
+! Missing } inserted.
+<inserted text> 
+                }
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.174 \end{minipage}
+                     \\
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.174 \end{minipage}
+                     \\
+(That makes 100 errors; please try again.)
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on document.log.
