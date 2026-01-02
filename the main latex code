@@ -215,9 +215,8 @@ C\textquotesingle est l\textquotesingle application historique du Lean au sein d
 \begin{itemize}
 \item \textbf{Objectif :} Produire <<~au plus juste~>> (juste ce qu\textquotesingle il faut, quand il faut).
 \item \textbf{Action :} Éliminer les \textbf{Muda} (gaspillages) dans l\textquotesingle atelier, comme les stocks excessifs, les déplacements inutiles ou les défauts de fabrication.
-\item \textbf{Outils clés :} 5S (organisation), Kanban (flux tirés), SMED (réduction des temps de changement de série), TPM (maintenance).
+\item \textbf{Outils clés :} 5S (organisation), Kanban (flux tirés), SMED (réduction des temps de changement de série), TPM (maintenance). 
 \end{itemize}
-
 \textbf{2. Le Lean Management (La dimension organisationnelle)}
 
 Il s\textquotesingle agit de l\textquotesingle évolution du Lean Manufacturing à \textbf{l\textquotesingle ensemble de l\textquotesingle entreprise} (bureaux, RH, logistique, service client, direction). C\textquotesingle est autant un système de gestion qu\textquotesingle une culture d\textquotesingle entreprise.
@@ -225,9 +224,8 @@ Il s\textquotesingle agit de l\textquotesingle évolution du Lean Manufacturing 
 \begin{itemize}
 \item \textbf{Objectif :} Créer une culture d\textquotesingle amélioration continue (\textbf{Kaizen}) impliquant tous les collaborateurs.
 \item \textbf{Action :} Optimiser les processus administratifs et décisionnels, et surtout, développer les compétences des employés pour qu\textquotesingle ils résolvent eux-mêmes les problèmes.
-\item \textbf{Focus :} Le leadership, l\textquotesingle écoute du client et l\textquotesingle intelligence collective.
+\item \textbf{Focus :} Le leadership, l\textquotesingle écoute du client et l\textquotesingle intelligence collective. 
 \end{itemize}
-
 \vspace{1em}
 
 \textbf{Tableau Comparatif Rapide}
@@ -249,7 +247,9 @@ Il s\textquotesingle agit de l\textquotesingle évolution du Lean Manufacturing 
 \midrule
 \textbf{Résultats visés} & Gain de productivité, réduction de stock & Agilité, satisfaction client, engagement salarié \\
 \bottomrule
-\end{tabular} \\
+\end{tabular}
+
+\end{minipage} \\
 \midrule\noalign{}
 \endhead
 \bottomrule\noalign{}
@@ -325,9 +325,8 @@ Avant d\textquotesingle aborder les problèmes, clarifions le vocabulaire techni
 \begin{itemize}
 \item \textbf{Lean Manufacturing :} Philosophie visant à éliminer les \textbf{Muda} (gaspillages) pour maximiser la valeur ajoutée avec le moins de ressources possible.
 \item \textbf{Six Sigma :} Méthodologie statistique visant à réduire la \textbf{variabilité} des processus pour atteindre un taux de défaut quasi nul (3,4 défauts par million d\textquotesingle opportunités).
-\item \textbf{Lean Six Sigma (LSS) :} L\textquotesingle hybride des deux : la vitesse et l\textquotesingle agilité du Lean combinées à la rigueur statistique du Six Sigma.
+\item \textbf{Lean Six Sigma (LSS) :} L\textquotesingle hybride des deux : la vitesse et l\textquotesingle agilité du Lean combinées à la rigueur statistique du Six Sigma. 
 \end{itemize}
-
 \end{minipage} \\
 \midrule\noalign{}
 \endhead
@@ -354,20 +353,17 @@ Avant d\textquotesingle aborder les problèmes, clarifions le vocabulaire techni
 \end{center}
 
 \begin{itemize}
-\item \textbf{Just-In-Time (JIT) :} Produire exactement ce qui est
+\item \textbf{Just-In-Time (JIT) :} Produire exactement ce qui est nécessaire, quand c\textquotesingle est nécessaire et en quantité
 \end{itemize}
-nécessaire, quand c\textquotesingle est nécessaire et en quantité
 voulue. Repose sur le flux tiré (\textbf{Kanban}).
 
 \begin{itemize}
-\item \textbf{Kaizen :} Démarche d\textquotesingle amélioration continue par
+\item \textbf{Kaizen :} Démarche d\textquotesingle amélioration continue par "petits pas", impliquant tout le personnel, du terrain à la direction.
 \end{itemize}
-"petits pas", impliquant tout le personnel, du terrain à la direction.
 
 \begin{itemize}
-\item \textbf{VSM (Value Stream Mapping) :} Cartographie du flux de valeur
+\item \textbf{VSM (Value Stream Mapping) :} Cartographie du flux de valeur permettant de visualiser les gaspillages entre le fournisseur et le
 \end{itemize}
-permettant de visualiser les gaspillages entre le fournisseur et le
 client.
 
 \textbf{2. Typologie des Problèmes Industriels}
@@ -431,22 +427,19 @@ l\textquotesingle{}\textbf{écart} (le "Gap") :
 (Restauration)}
 
 \begin{itemize}
-\item \textbf{Situation :} Le standard existe, il était maîtrisé, mais
+\item \textbf{Situation :} Le standard existe, il était maîtrisé, mais "quelque chose" a cassé le processus.
 \end{itemize}
-"quelque chose" a cassé le processus.
 
 \begin{itemize}
-\item \textbf{L\textquotesingle objectif :} C\textquotesingle est un retour
+\item \textbf{L\textquotesingle objectif :} C\textquotesingle est un retour vers le passé (revenir à l\textquotesingle état stable que
 \end{itemize}
-vers le passé (revenir à l\textquotesingle état stable que
 l\textquotesingle on connaissait).
 
 \begin{itemize}
 \item \textbf{Le mot-clé :Réactivité}. On parle de "Correctif".
 
-\item \textbf{Analogie :} Un athlète qui court habituellement le 100m en 10
+\item \textbf{Analogie :} Un athlète qui court habituellement le 100m en 10 secondes (objectif atteint) et
 \end{itemize}
-secondes (objectif atteint) et
 
 qui, suite à une blessure, tombe à 15 secondes. La 8D,
 c\textquotesingle est le protocole de soin pour qu\textquotesingle il
@@ -456,28 +449,24 @@ court à nouveau en 10 secondes.
 \textbf{2. Le DMAIC : La gestion du Projet (Rupture)}
 
 \begin{itemize}
-\item \textbf{Situation :} Le processus est stable, il n\textquotesingle y a
+\item \textbf{Situation :} Le processus est stable, il n\textquotesingle y a pas de "panne", mais le niveau actuel ne suffit plus
 \end{itemize}
-pas de "panne", mais le niveau actuel ne suffit plus
 
 pour être compétitif.
 
 \begin{itemize}
-\item \textbf{L\textquotesingle objectif :} C\textquotesingle est un bond
+\item \textbf{L\textquotesingle objectif :} C\textquotesingle est un bond vers le futur (atteindre un niveau de performance jamais atteint
 \end{itemize}
-vers le futur (atteindre un niveau de performance jamais atteint
 
 auparavant).
 
 \begin{itemize}
-\item \textbf{Le mot-clé :Proactif}. On parle d\textquotesingle{}
+\item \textbf{Le mot-clé :Proactif}. On parle d\textquotesingle{} Amélioration de rupture (Breakthrough).
 \end{itemize}
-Amélioration de rupture (Breakthrough).
 
 \begin{itemize}
-\item \textbf{Analogie :} Le même athlète court toujours en 10 secondes
+\item \textbf{Analogie :} Le même athlète court toujours en 10 secondes (stable), mais pour gagner les JO,
 \end{itemize}
-(stable), mais pour gagner les JO,
 
 il doit passer à 9,7 secondes. Il ne s\textquotesingle agit pas de
 soigner une blessure, mais de changer de
@@ -538,56 +527,27 @@ Section Détails du Projet (Données Robotica)
 Situation actuelle
 \end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
-\item Mécontentement des donneurs d'ordres : retards de livraison et coût
+\item Mécontentement des donneurs d'ordres : retards de livraison et coût élevé des défauts qualité.
+\item Menace de changement de fournisseur sous 6 mois si la situation n'est pas redressée.
+\item Performance technique : 45 pannes/mois, temps de changement de référence de 3h, délai de livraison moyen de 7 jours.
 \end{itemize}
-élevé des défauts qualité.
-
-\begin{itemize}
-\item Menace de changement de fournisseur sous 6 mois si la situation n'est
-\end{itemize}
-pas redressée.
-
-\begin{itemize}
-\item Performance technique : 45 pannes/mois, temps de change ment de
-\end{itemize}
-référence de 3h, délai de livraison moyen de 7 jours.
 \end{minipage} \\
 \begin{minipage}[t]{\linewidth}\raggedright
 Situation future
-\end{minipage} & \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
-\item \\
-\item \\
-\item \\
-\item 
+\item Clients satisfaits et fidélisés grâce à une meilleure fiabilité.
+\item Délais de livraison réduits de 20\% (cible : 5,6 jours).
+\item Entreprise rentable avec une marge supérieure à 20\%.
+\item Processus stabilisé avec une réduction significative des pannes et du temps SMED.
 \end{itemize}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Clients satisfaits et fidélisés grâce à une meilleure fiabilité.
-
-Délais de livraison réduits de 20\% (cible : 5,6 jours).
-
-Entreprise rentable avec une marge supérieure à 20\%.
-
-Processus stabilisé avec une réduction significative des pannes et du temps SMED.
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular}
 \end{minipage} \\
 \begin{minipage}[t]{\linewidth}\raggedright
 Objectif
 \end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \item Réduction du coût de revient de 15\%.
-
 \item Réduction des délais de livraison de 20\%.
-
 \item Augmentation de la marge à plus de 20\%.
 \end{itemize}
 \end{minipage} \\
@@ -599,8 +559,7 @@ Objectif
 
 \item Leader : Responsable Excellence Opérationnelle (EO).
 
-\item Partenaires : Équipes R\&D (Allemagne) et Production/Montage (France).
-\end{itemize}
+\item Partenaires : Équipes R\&D (Allemagne) et Production/Montage (France). \end{itemize}
 \end{minipage} \\
 \begin{minipage}[t]{\linewidth}\raggedright
 macro planning
@@ -608,25 +567,21 @@ macro planning
 \begin{itemize}
 \item Remise du rapport de diagnostic : sous 20 heures.
 
-\item Phase de redressement globale : maximum 6 mois.
-\end{itemize}
+\item Phase de redressement globale : maximum 6 mois. \end{itemize}
 \end{minipage} \\
 \begin{minipage}[t]{\linewidth}\raggedright
 risque de projet
 \end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
-\item Perte définitive des clients majeurs si le délai de 6 mois n'est pas
+\item Perte définitive des clients majeurs si le délai de 6 mois n'est pas respecté.
 \end{itemize}
-respecté.
 
 \begin{itemize}
-\item Instabilité critique de la production due au nombre élevé de pannes
+\item Instabilité critique de la production due au nombre élevé de pannes (45/mois).
 \end{itemize}
-(45/mois).
 
 \begin{itemize}
-\item Inflexibilité face à la variation de la demande (60 à 100 commandes).
-\end{itemize}
+\item Inflexibilité face à la variation de la demande (60 à 100 commandes). \end{itemize}
 \end{minipage} \\
 Plan de commmunication & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
@@ -634,9 +589,8 @@ Plan de commmunication & \begin{minipage}[t]{\linewidth}\raggedright
 
 \item Coordination inter-sites entre la R\&D allemande et l'usine française.
 
-\item Suivi mensuel des indicateurs clés (KPI) de performance pour les
+\item Suivi mensuel des indicateurs clés (KPI) de performance pour les donneurs
 \end{itemize}
-donneurs
 
 d'ordres.
 \end{minipage} \\
@@ -652,9 +606,7 @@ d'ordres.
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
-\begin{itemize}
-\item 
-\end{itemize}
+~
 \end{minipage} &
 \multicolumn{2}{>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.6667} + 2\tabcolsep}@{}}{%
 \begin{minipage}[b]{\linewidth}\raggedright
@@ -664,31 +616,27 @@ Equipe de projet :
 
 \bottomrule\noalign{}
 
-\begin{itemize}
-\item &
-\end{itemize}
+& 
 \multicolumn{2}{>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.6667} + 2\tabcolsep}@{}}{%
 \begin{minipage}[t]{\linewidth}\raggedright
 Macro-planning
 \end{minipage}} \\
-& • & \begin{minipage}[t]{\linewidth}\raggedright
+& &  \begin{minipage}[t]{\linewidth}\raggedright
 D \textbar-\/-2S-\/-\textbar{}
 \end{minipage} \\
-& • & \begin{minipage}[t]{\linewidth}\raggedright
+& &  \begin{minipage}[t]{\linewidth}\raggedright
 M \textbar-\/-3M-\/-\textbar{}
 \end{minipage} \\
-& • & \begin{minipage}[t]{\linewidth}\raggedright
+& &  \begin{minipage}[t]{\linewidth}\raggedright
 A\ldots\ldots\ldots\ldots\ldots{}
 \end{minipage} \\
-& • & \begin{minipage}[t]{\linewidth}\raggedright
+& &  \begin{minipage}[t]{\linewidth}\raggedright
 I\ldots\ldots\ldots\ldots{}
 \end{minipage} \\
-& • & \begin{minipage}[t]{\linewidth}\raggedright
+& &  \begin{minipage}[t]{\linewidth}\raggedright
 C\ldots\ldots\ldots.
 \end{minipage} \\
-\begin{itemize}
-\item &
-\end{itemize}
+& 
 \multicolumn{2}{>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.6667} + 2\tabcolsep}@{}}{%
 \begin{minipage}[t]{\linewidth}\raggedright
 Risque du projet :
@@ -832,9 +780,8 @@ Risque du projet :
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 \begin{itemize}
-\item Plan de communication :\\
+\item Plan de communication :\\ \textbf{Mesurer} Taux de client
 \end{itemize}
-\textbf{Mesurer} Taux de client
 
 Mesure de Kpi's :\\
 \hl{Taux client → objectif}
@@ -843,9 +790,8 @@ Objectif \hl{Voix du client :} CTQ( critical to quality ) =KPI\\
 Voix du proess : Taux de satisfaction client :\\
 \begin{itemize}
 \item KPI délai\\
-\item \\
+\item \\ Cout • Taux de conformité
 \end{itemize}
-Cout • Taux de conformité
 
 \textbf{Synthèse Globale}
 
@@ -861,9 +807,8 @@ d\textquotesingle Affaires, tant au niveau des produits
 qu\textquotesingle au niveau des clients.
 
 \begin{itemize}
-\item \textbf{Concentration des Produits :} Les \textbf{5 premiers produits}
+\item \textbf{Concentration des Produits :} Les \textbf{5 premiers produits} (sur 10) génèrent \textbf{67.66\%} du Chiffre d\textquotesingle Affaires
 \end{itemize}
-(sur 10) génèrent \textbf{67.66\%} du Chiffre d\textquotesingle Affaires
 total.
 
 o Les produits \textbf{P02} et \textbf{P10} sont les principaux moteurs
@@ -876,9 +821,8 @@ qu\textquotesingle ils sont des articles à forte rotation ou à volume
 élevé.
 
 \begin{itemize}
-\item \textbf{Concentration des Clients :} Étant donné qu\textquotesingle il
+\item \textbf{Concentration des Clients :} Étant donné qu\textquotesingle il n\textquotesingle y a que 5 clients uniques, le top 5 des clients génère
 \end{itemize}
-n\textquotesingle y a que 5 clients uniques, le top 5 des clients génère
 logiquement \textbf{100.00\%} du CA total.
 
 o Les trois principaux clients sont \textbf{Staübli}, \textbf{Kawasaki}
@@ -1102,9 +1046,8 @@ D\textquotesingle un point de vue de gestionnaire industriel ou de data
 analyst, cette répartition impose des stratégies différenciées :
 
 \begin{itemize}
-\item \textbf{Gestion des Stocks :} Pour \textbf{P02} et \textbf{P10}, une
+\item \textbf{Gestion des Stocks :} Pour \textbf{P02} et \textbf{P10}, une rupture de stock serait catastrophique. Ils nécessitent un suivi
 \end{itemize}
-rupture de stock serait catastrophique. Ils nécessitent un suivi
 rigoureux (inventaire permanent, stock de sécurité optimisé). Pour les
 autres, une gestion sur commande ou un stock minimal suffit.
 \end{minipage} \\
@@ -1125,9 +1068,8 @@ autres, une gestion sur commande ou un stock minimal suffit.
 \end{minipage}}
 \end{center}
 \begin{itemize}
-\item \textbf{Optimisation
+\item \textbf{Optimisation de la Production :} Il est probable que vos lignes de production soient
 \end{itemize}
-de la Production :} Il est probable que vos lignes de production soient
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
@@ -1142,9 +1084,8 @@ production des autres références (comme P01) génère probablement des
 produit.
 
 \begin{itemize}
-\item \textbf{Analyse de Rentabilité :} Il serait intéressant de vérifier si
+\item \textbf{Analyse de Rentabilité :} Il serait intéressant de vérifier si ces deux produits à fort volume sont aussi ceux qui génèrent le plus de
 \end{itemize}
-ces deux produits à fort volume sont aussi ceux qui génèrent le plus de
 marge, ou s\textquotesingle ils servent de "produits
 d\textquotesingle appel".
 
@@ -1300,17 +1241,15 @@ o \textbf{P04, P07 et P08} sont vos produits de \textbf{spécialité}
 destinés à des besoins spécifiques).
 
 \begin{itemize}
-\item \textbf{Risque Client/Produit :} Notre rentabilité est mieux répartie
+\item \textbf{Risque Client/Produit :} Notre rentabilité est mieux répartie que votre production. Si la demande pour P02 chute,
 \end{itemize}
-que votre production. Si la demande pour P02 chute,
 l\textquotesingle impact sur votre CA sera moins violent que
 l\textquotesingle impact sur votre charge de travail en usine, car les
 autres produits soutiennent efficacement la structure financière.
 
 \begin{itemize}
-\item \textbf{Analyse du Prix Unitaire :} On constate un écart massif. Par
+\item \textbf{Analyse du Prix Unitaire :} On constate un écart massif. Par exemple, le produit \textbf{P01} (2,7 millions de CA pour seulement 107
 \end{itemize}
-exemple, le produit \textbf{P01} (2,7 millions de CA pour seulement 107
 unités) a un prix unitaire environ \textbf{650 fois plus élevé} que le
 produit \textbf{P02}.
 \end{minipage} \\
