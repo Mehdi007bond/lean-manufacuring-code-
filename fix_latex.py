@@ -17,7 +17,7 @@ def check_latex_document(content):
         issues.append("⚠ Warning: No A4 paper specification found")
     
     # Check for geometry package
-    if '\\usepackage{geometry}' not in content and '\\usepackage[' not in content or 'geometry' not in content:
+    if ('\\usepackage{geometry}' not in content and '\\usepackage[' not in content) or 'geometry' not in content:
         issues.append("⚠ Warning: geometry package not found")
     
     # Check for French language support
