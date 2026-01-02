@@ -75,8 +75,9 @@ For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/xurl/xurl.sty)
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
-(./document.aux) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+No file document.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
@@ -88,554 +89,556 @@ For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
-Overfull \hbox (41.76366pt too wide) in paragraph at lines 111--111
- []\T1/lmr/bx/n/10 (-20) [PLACEHOLDER: 
+Overfull \vbox (28.79999pt too high) detected at line 110
 
-Overfull \hbox (14.61592pt too wide) in paragraph at lines 111--111
- \T1/lmr/m/it/10 (-20) dia/image1.png 
-
-Overfull \hbox (1.10078pt too wide) in paragraph at lines 111--111
- [] 
-
-Overfull \vbox (77.79999pt too high) detected at line 111
-
-Overfull \vbox (28.79999pt too high) detected at line 125
-
-Overfull \hbox (25.6788pt too wide) in paragraph at lines 128--129
-\T1/lmr/m/n/10 (-20) L'HABILLEMENT  
-! Extra }, or forgotten \endgroup.
-\@endpbox ...\@arstrutbox \color@endgroup \egroup 
-                                                  \the \LT@p@ftn \global \LT...
-l.157 \textbf
-             {Domaine} : Lean manufacturing et excellence opérationnelle
+Overfull \vbox (28.79999pt too high) detected at line 122
+(/usr/share/texmf/tex/latex/lm/ts1lmr.fd)
+Overfull \hbox (6.75421pt too wide) in paragraph at lines 237--252
+[][]  
+! Misplaced \noalign.
+\midrule ->\noalign 
+                    {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
+l.253 \midrule
+              \noalign{}
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.253 \midrule\noalign
+                      {}
 ! Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.157 \textbf
-             {Domaine} : Lean manufacturing et excellence opérationnelle
+l.253 \midrule\noalign
+                      {}
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.253 \midrule\noalign
+                      {}
 ! Missing } inserted.
 <inserted text> 
                 }
-l.157 \textbf
-             {Domaine} : Lean manufacturing et excellence opérationnelle
+l.253 \midrule\noalign
+                      {}
 
-! LaTeX Error: \begin{longtable} on input line 92 ended by \end{quote}.
+Overfull \hbox (238.01143pt too wide) in paragraph at lines 306--316
+[]|[]|  
+
+Overfull \hbox (238.01143pt too wide) in paragraph at lines 316--328
+[]|[]|  
+
+Overfull \hbox (238.01143pt too wide) in paragraph at lines 328--341
+[]|[]|  
+
+Overfull \hbox (238.01143pt too wide) in paragraph at lines 345--357
+[]|[]|  
+
+Overfull \hbox (238.01143pt too wide) in paragraph at lines 357--371
+[]|[]  
+
+! LaTeX Error: \begin{tabular} on input line 301 ended by \end{minipage}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.158 \end{quote}
-                 
-
-! LaTeX Error: \begin{longtable} on input line 92 ended by \end{quote}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.173 \end{quote}
-                 \strut
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing } inserted.
 <inserted text> 
                 }
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing } inserted.
 <inserted text> 
                 }
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
-! Missing { inserted.
-<inserted text> 
-                {
-l.174 \end{minipage}
-                     \\
-! Missing } inserted.
-<inserted text> 
-                }
-l.174 \end{minipage}
-                     \\
-! Missing } inserted.
-<inserted text> 
-                }
-l.174 \end{minipage}
-                     \\
-! Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 (That makes 100 errors; please try again.)
 !  ==> Fatal error occurred, no output PDF file produced!
 Transcript written on document.log.

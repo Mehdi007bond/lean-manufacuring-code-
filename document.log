@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.1.2)  2 JAN 2026 15:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.1.2)  2 JAN 2026 15:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -497,7 +497,7 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 (/usr/share/texlive/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 90
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 89
 .
 
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
@@ -508,47 +508,48 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count307
 \l__pdf_internal_box=\box64
 )
-(./document.aux)
+No file document.aux.
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Info: Redefining \microtypecontext on input line 90.
-Package microtype Info: Applying patch `item' on input line 90.
-Package microtype Info: Applying patch `toc' on input line 90.
-Package microtype Info: Applying patch `eqnum' on input line 90.
-Package microtype Info: Applying patch `footnote' on input line 90.
-Package microtype Info: Applying patch `verbatim' on input line 90.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Info: Redefining \microtypecontext on input line 89.
+Package microtype Info: Applying patch `item' on input line 89.
+Package microtype Info: Applying patch `toc' on input line 89.
+Package microtype Info: Applying patch `eqnum' on input line 89.
+Package microtype Info: Applying patch `footnote' on input line 89.
+Package microtype Info: Applying patch `verbatim' on input line 89.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 90.
+LaTeX Info: Redefining \showhyphens on input line 89.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
- (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
-) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count308
 \scratchdimen=\dimen191
@@ -570,38 +571,38 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 90.
+Package hyperref Info: Link coloring OFF on input line 89.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9
-5.
+6.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
-5.
+6.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-95.
+96.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-95.
+96.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 95.
+(Font)              <10> on input line 96.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 95.
+(Font)              <7> on input line 96.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 95.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
+(Font)              <5> on input line 96.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -610,7 +611,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -619,49 +620,54 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Overfull \hbox (41.76366pt too wide) in paragraph at lines 111--111
- []\T1/lmr/bx/n/10 (-20) [PLACEHOLDER: 
+Overfull \vbox (28.79999pt too high) detected at line 110
  []
 
 
-Overfull \hbox (14.61592pt too wide) in paragraph at lines 111--111
- \T1/lmr/m/it/10 (-20) dia/image1.png 
+Overfull \vbox (28.79999pt too high) detected at line 122
  []
 
-
-Overfull \hbox (1.10078pt too wide) in paragraph at lines 111--111
- [] 
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
+13.
+(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Overfull \hbox (6.75421pt too wide) in paragraph at lines 237--252
+[][]  
  []
 
+! Misplaced \noalign.
+\midrule ->\noalign 
+                    {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
+l.253 \midrule
+              \noalign{}
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
 
-Overfull \vbox (77.79999pt too high) detected at line 111
- []
-
-
-Overfull \vbox (28.79999pt too high) detected at line 125
- []
-
-
-Overfull \hbox (25.6788pt too wide) in paragraph at lines 128--129
-\T1/lmr/m/n/10 (-20) L'HABILLEMENT  
- []
-
-! Extra }, or forgotten \endgroup.
-\@endpbox ...\@arstrutbox \color@endgroup \egroup 
-                                                  \the \LT@p@ftn \global \LT...
-l.157 \textbf
-             {Domaine} : Lean manufacturing et excellence opérationnelle
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.253 \midrule\noalign
+                      {}
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
 
 ! Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.157 \textbf
-             {Domaine} : Lean manufacturing et excellence opérationnelle
+l.253 \midrule\noalign
+                      {}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.253 \midrule\noalign
+                      {}
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -671,8 +677,8 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.157 \textbf
-             {Domaine} : Lean manufacturing et excellence opérationnelle
+l.253 \midrule\noalign
+                      {}
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -680,27 +686,39 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-! LaTeX Error: \begin{longtable} on input line 92 ended by \end{quote}.
+Overfull \hbox (238.01143pt too wide) in paragraph at lines 306--316
+[]|[]|  
+ []
+
+
+Overfull \hbox (238.01143pt too wide) in paragraph at lines 316--328
+[]|[]|  
+ []
+
+
+Overfull \hbox (238.01143pt too wide) in paragraph at lines 328--341
+[]|[]|  
+ []
+
+
+Overfull \hbox (238.01143pt too wide) in paragraph at lines 345--357
+[]|[]|  
+ []
+
+
+Overfull \hbox (238.01143pt too wide) in paragraph at lines 357--371
+[]|[]  
+ []
+
+
+! LaTeX Error: \begin{tabular} on input line 301 ended by \end{minipage}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.158 \end{quote}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{longtable} on input line 92 ended by \end{quote}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.173 \end{quote}
-                 \strut
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -708,19 +726,26 @@ or  <return>  to continue without it.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
+I'm guessing that you meant to end an alignment here.
 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -730,53 +755,15 @@ my insertion and my current dilemma will both disappear.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
-I'm guessing that you meant to end an alignment here.
-
-! Missing { inserted.
-<inserted text> 
-                {
-l.174 \end{minipage}
-                     \\
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.174 \end{minipage}
-                     \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.174 \end{minipage}
-                     \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -786,15 +773,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -804,15 +791,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -822,15 +809,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -840,15 +827,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -858,15 +845,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -876,15 +863,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -894,15 +881,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -912,15 +899,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -930,15 +917,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -948,15 +935,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -966,15 +953,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -984,15 +971,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1002,15 +989,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1020,15 +1007,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1038,15 +1025,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1056,15 +1043,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1074,15 +1061,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1092,15 +1079,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1110,15 +1097,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1128,15 +1115,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1146,15 +1133,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1164,15 +1151,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1182,15 +1169,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1200,15 +1187,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1218,15 +1205,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1236,15 +1223,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1254,15 +1241,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1272,15 +1259,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1290,15 +1277,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1308,15 +1295,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1326,15 +1313,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1344,15 +1331,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1362,15 +1349,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1380,15 +1367,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1398,15 +1385,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1416,15 +1403,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1434,15 +1421,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1452,15 +1439,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1470,15 +1457,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1488,15 +1475,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1506,15 +1493,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1524,15 +1511,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1542,15 +1529,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1560,15 +1547,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1578,15 +1565,15 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
 up above has ended a previous alignment prematurely,
@@ -1596,23 +1583,41 @@ might try typing `S' now just to see what is salvageable.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 I'm guessing that you meant to end an alignment here.
 
 ! Misplaced \cr.
 <inserted text> \cr 
                     
-l.174 \end{minipage}
-                     \\
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+<inserted text> \cr 
+                    
+l.371 \end{minipage}
+                     & \begin{tabular}{@{}
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 13478 strings out of 476153
- 210755 string characters out of 5794327
- 1927975 words of memory out of 5000000
- 35255 multiletter control sequences out of 15000+600000
- 582712 words of font info for 69 fonts, out of 8000000 for 9000
+ 13547 strings out of 476153
+ 212083 string characters out of 5794327
+ 1932975 words of memory out of 5000000
+ 35296 multiletter control sequences out of 15000+600000
+ 587387 words of font info for 84 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,22n,81p,1005b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,27n,81p,1005b,608s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 !  ==> Fatal error occurred, no output PDF file produced!

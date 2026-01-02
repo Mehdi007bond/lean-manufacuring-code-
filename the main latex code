@@ -58,7 +58,6 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in 
 
-
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 % Set default figure placement to htbp
 \makeatletter
@@ -92,49 +91,47 @@
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
 \toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+
 \begin{tabular}{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
 \toprule\noalign{}
 \multirow{2}{*}{\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image1.png}
+ \textit{Original image path: media/image1.png}
 \end{minipage}}
 \end{center}
 
-\end{quote}
 \end{minipage}} & \begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
 ECOLE SUPERIEUR DES INDUSTRIESDU
-\end{quote}
 \end{minipage} &
 \multirow{2}{*}{\begin{minipage}[b]{\linewidth}\raggedright
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image2.png}
+ \textit{Original image path: media/image2.png}
 \end{minipage}}
 \end{center}
 
 \end{minipage}} \\
 & \begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
 TEXTILE ET DE L'HABILLEMENT
-\end{quote}
-\end{minipage} \\
+\end{minipage} & \\
 \midrule\noalign{}
-
 \bottomrule\noalign{}
-
 \end{tabular}
 
+\vspace{1em}
+
 \textbf{Rapport de suivit}
+
+\vspace{0.5em}
 
 \begin{tabular}{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
@@ -145,32 +142,34 @@ TEXTILE ET DE L'HABILLEMENT
 \textbf{Ecole supérieure des industrie textile et habillement}
 \end{minipage}} \\
 \midrule\noalign{}
-
-\bottomrule\noalign{}
-
 Année scolaire & 2025 - 2026 \\
 Nom et prénom de l'étudiant : & Mehdi Boumazzourh \\
+\bottomrule\noalign{}
 \end{tabular}
 
-\begin{quote}
-\textbf{Encadrant de l'ESITH} : Mr SAMIR TETOUANI\\
-\textbf{Domaine} : Lean manufacturing et excellence opérationnelle
-\end{quote}
+\vspace{1em}
 
+\textbf{Encadrant de l'ESITH} : Mr SAMIR TETOUANI
+
+\textbf{Domaine} : Lean manufacturing et excellence opérationnelle
+
+\vspace{1em}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image3.png}
+ \textit{Original image path: media/image3.png}
 \end{minipage}}
 \end{center}
 
+\vspace{1em}
 
-\begin{quote}
-Cycle : Génie industriel\\
-Filière : Chef de produit\\
-Niveau : 3 -ème année
-\end{quote}\strut
+Cycle : Génie industriel
+
+Filière : Chef de produit
+
+Niveau : 3\textsuperscript{ème} année
+
 \end{minipage} \\
 \midrule\noalign{}
 \endhead
@@ -182,281 +181,74 @@ Niveau : 3 -ème année
   >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image4.png}
+ \textit{Original image path: media/image4.png}
 \end{minipage}}
 \end{center}
 
+\vspace{0.5em}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image5.png}
+ \textit{Original image path: media/image5.png}
 \end{minipage}}
 \end{center}
 
+\vspace{1em}
 
-Définition des termes générales
-\end{quote}
+\textbf{Définition des termes générales}
 
-Le \textbf{Lean} (qui signifie "maigre" ou "sans superflu") est une
-philosophie de gestion inspirée du système
+\vspace{0.5em}
 
-\begin{quote}
-de production de \textbf{Toyota} (TPS). Son objectif principal est de
-maximiser la valeur pour le client tout
+Le \textbf{Lean} (qui signifie <<~maigre~>> ou <<~sans superflu~>>) est une philosophie de gestion inspirée du système de production de \textbf{Toyota} (TPS). Son objectif principal est de maximiser la valeur pour le client tout en minimisant les gaspillages.
 
-en minimisant les gaspillages.
-
-Bien que les deux termes soient souvent utilisés de manière
-interchangeable, ils désignent des
-
-périmètres légèrement différents :
+Bien que les deux termes soient souvent utilisés de manière interchangeable, ils désignent des périmètres légèrement différents :
 
 \textbf{1. Le Lean Manufacturing (La dimension opérationnelle)}
 
-C\textquotesingle est l\textquotesingle application historique du Lean
-au sein des \textbf{usines et des lignes de production}. Il se concentre
+C\textquotesingle est l\textquotesingle application historique du Lean au sein des \textbf{usines et des lignes de production}. Il se concentre sur l\textquotesingle optimisation des flux physiques.
 
-sur l\textquotesingle optimisation des flux physiques.
-
-• \textbf{Objectif :} Produire "au plus juste" (juste ce
-qu\textquotesingle il faut, quand il faut).
-
-• \textbf{Action :} Éliminer les \textbf{Muda} (gaspillages) dans
-l\textquotesingle atelier, comme les stocks excessifs, les
-
-déplacements inutiles ou les défauts de fabrication.
-
-• \textbf{Outils clés :} 5S (organisation), Kanban (flux tirés), SMED
-(réduction des temps de
-
-changement de série), TPM (maintenance).
+\begin{itemize}
+\item \textbf{Objectif :} Produire <<~au plus juste~>> (juste ce qu\textquotesingle il faut, quand il faut).
+\item \textbf{Action :} Éliminer les \textbf{Muda} (gaspillages) dans l\textquotesingle atelier, comme les stocks excessifs, les déplacements inutiles ou les défauts de fabrication.
+\item \textbf{Outils clés :} 5S (organisation), Kanban (flux tirés), SMED (réduction des temps de changement de série), TPM (maintenance).
+\end{itemize}
 
 \textbf{2. Le Lean Management (La dimension organisationnelle)}
-\end{quote}
 
-Il s\textquotesingle agit de l\textquotesingle évolution du Lean
-Manufacturing à \textbf{l\textquotesingle ensemble de
-l\textquotesingle entreprise} (bureaux, RH, logistique,
+Il s\textquotesingle agit de l\textquotesingle évolution du Lean Manufacturing à \textbf{l\textquotesingle ensemble de l\textquotesingle entreprise} (bureaux, RH, logistique, service client, direction). C\textquotesingle est autant un système de gestion qu\textquotesingle une culture d\textquotesingle entreprise.
 
-\begin{quote}
-service client, direction). C\textquotesingle est autant un système de
-gestion qu\textquotesingle une culture d\textquotesingle entreprise.
+\begin{itemize}
+\item \textbf{Objectif :} Créer une culture d\textquotesingle amélioration continue (\textbf{Kaizen}) impliquant tous les collaborateurs.
+\item \textbf{Action :} Optimiser les processus administratifs et décisionnels, et surtout, développer les compétences des employés pour qu\textquotesingle ils résolvent eux-mêmes les problèmes.
+\item \textbf{Focus :} Le leadership, l\textquotesingle écoute du client et l\textquotesingle intelligence collective.
+\end{itemize}
 
-• \textbf{Objectif :} Créer une culture d\textquotesingle amélioration
-continue (\textbf{Kaizen}) impliquant tous les
-
-collaborateurs.
-
-• \textbf{Action :} Optimiser les processus administratifs et
-décisionnels, et surtout, développer les
-
-compétences des employés pour qu\textquotesingle ils résolvent eux-mêmes
-les problèmes.
-
-• \textbf{Focus :} Le leadership, l\textquotesingle écoute du client et
-l\textquotesingle intelligence collective.
+\vspace{1em}
 
 \textbf{Tableau Comparatif Rapide}
-\end{quote}
+
+\vspace{0.5em}
 
 \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
-\begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Caractéristique}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} & \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-\textbf{Lean Manufacturing}
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} & \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-\textbf{Lean Management}
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-\textbf{Périmètre}
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} & \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-L\textquotesingle atelier / La production
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} & \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-L\textquotesingle organisation entière
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} \\
-\begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-\textbf{Cible}
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} & \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-Les machines, les flux, les pièces
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} & \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-Les personnes, les processus, la stratégie
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} \\
-\begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-\textbf{Outils types}
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} & \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-VSM, 5S, Kanban, Jidoka
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} & \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-Management Visuel, Kaizen, A3, Hoshin Kanri
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} \\
-\begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-\textbf{Résultats visés}
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} & \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-Gain de productivité, réduction de stock
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} & \begin{tabular}{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-Agilité, satisfaction client, engagement salarié
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-
-\bottomrule\noalign{}
-
-\end{tabular} \\
+  >{\raggedright\arraybackslash}p{0.25\linewidth}
+  >{\raggedright\arraybackslash}p{0.35\linewidth}
+  >{\raggedright\arraybackslash}p{0.35\linewidth}@{}}
+\toprule
+\textbf{Caractéristique} & \textbf{Lean Manufacturing} & \textbf{Lean Management} \\
+\midrule
+\textbf{Périmètre} & L\textquotesingle atelier / La production & L\textquotesingle organisation entière \\
+\midrule
+\textbf{Cible} & Les machines, les flux, les pièces & Les personnes, les processus, la stratégie \\
+\midrule
+\textbf{Outils types} & VSM, 5S, Kanban, Jidoka & Management Visuel, Kaizen, A3, Hoshin Kanri \\
+\midrule
+\textbf{Résultats visés} & Gain de productivité, réduction de stock & Agilité, satisfaction client, engagement salarié \\
+\bottomrule
 \end{tabular} \\
 \midrule\noalign{}
 \endhead
@@ -473,20 +265,19 @@ Agilité, satisfaction client, engagement salarié
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image4.png}
+ \textit{Original image path: media/image4.png}
 \end{minipage}}
 \end{center}
-
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image5.png}
+ \textit{Original image path: media/image5.png}
 \end{minipage}}
 \end{center}
 
+\textbf{Les 5 principes fondamentaux du Lean}
 
-\textbf{Les 5 principes fondamentaux du Lean}\\
 Pour réussir dans l\textquotesingle une ou l\textquotesingle autre de
 ces approches, on suit généralement ces 5 étapes : 1.\textbf{Définir la
 Valeur :} Qu\textquotesingle est-ce que le client est réellement prêt à
@@ -570,13 +361,13 @@ deux
 \begin{quote}
 Philosophie visant à éliminer les\\
 gaspillages pour maximiser la valeur client.
-\end{quote}\strut
+\end{quote}
 \end{minipage} \\
 \midrule\noalign{}
 
 \bottomrule\noalign{}
 
-\end{tabular}\strut
+\end{tabular}
 \end{minipage} & \begin{tabular}{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
 \toprule\noalign{}
@@ -740,21 +531,28 @@ Implication totale, de la direction générale aux opérateurs.
 
 \begin{quote}
 Définition des termes et de quelque méthode\\
-\textbf{1. Définition des Termes et Méthodes Clés}\\
+\textbf{1. Définition des Termes et Méthodes Clés}
+
 Avant d\textquotesingle aborder les problèmes, clarifions le vocabulaire
 technique :\\
-• \textbf{Lean Manufacturing :} Philosophie visant à éliminer les
+\begin{itemize}
+\item \textbf{Lean Manufacturing :} Philosophie visant à éliminer les
+\end{itemize}
 \textbf{Muda} (gaspillages) pour maximiser la valeur ajoutée avec le
 moins de ressources possible.
 
-• \textbf{Six Sigma :} Méthodologie statistique visant à réduire la
+\begin{itemize}
+\item \textbf{Six Sigma :} Méthodologie statistique visant à réduire la
+\end{itemize}
 \textbf{variabilité} des processus pour atteindre un taux de défaut
 quasi nul (3,4 défauts par million d\textquotesingle opportunités).
 
-• \textbf{Lean Six Sigma (LSS) :} L\textquotesingle hybride des deux :
+\begin{itemize}
+\item \textbf{Lean Six Sigma (LSS) :} L\textquotesingle hybride des deux :
+\end{itemize}
 la vitesse et l\textquotesingle agilité du Lean combinées à la rigueur
 statistique du Six Sigma.
-\end{quote}\strut
+\end{quote}
 \end{minipage} \\
 \midrule\noalign{}
 \endhead
@@ -771,27 +569,31 @@ statistique du Six Sigma.
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image4.png}
+ \textit{Original image path: media/image4.png}
 \end{minipage}}
 \end{center}
-
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image5.png}
+ \textit{Original image path: media/image5.png}
 \end{minipage}}
 \end{center}
 
-
-• \textbf{Just-In-Time (JIT) :} Produire exactement ce qui est
+\begin{itemize}
+\item \textbf{Just-In-Time (JIT) :} Produire exactement ce qui est
+\end{itemize}
 nécessaire, quand c\textquotesingle est nécessaire et en quantité
 voulue. Repose sur le flux tiré (\textbf{Kanban}).
 
-• \textbf{Kaizen :} Démarche d\textquotesingle amélioration continue par
+\begin{itemize}
+\item \textbf{Kaizen :} Démarche d\textquotesingle amélioration continue par
+\end{itemize}
 "petits pas", impliquant tout le personnel, du terrain à la direction.
 
-• \textbf{VSM (Value Stream Mapping) :} Cartographie du flux de valeur
+\begin{itemize}
+\item \textbf{VSM (Value Stream Mapping) :} Cartographie du flux de valeur
+\end{itemize}
 permettant de visualiser les gaspillages entre le fournisseur et le
 client.
 
@@ -817,14 +619,12 @@ d\textquotesingle accidents, ergonomie des postes (TMS), consommation
 énergétique excessive.
 \end{quote}
 
-
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image6.png}
+ \textit{Original image path: media/image6.png}
 \end{minipage}}
 \end{center}
-
 
 \begin{quote}
 DMAIC
@@ -845,18 +645,16 @@ DMAIC
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image4.png}
+ \textit{Original image path: media/image4.png}
 \end{minipage}}
 \end{center}
-
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image5.png}
+ \textit{Original image path: media/image5.png}
 \end{minipage}}
 \end{center}
-
 
 En milieu industriel, on distingue ces deux situations par la nature de
 l\textquotesingle{}\textbf{écart} (le "Gap") :
@@ -864,16 +662,22 @@ l\textquotesingle{}\textbf{écart} (le "Gap") :
 \textbf{1. La 8D : La gestion de l\textquotesingle Anomalie
 (Restauration)}
 
-• \textbf{Situation :} Le standard existe, il était maîtrisé, mais
+\begin{itemize}
+\item \textbf{Situation :} Le standard existe, il était maîtrisé, mais
+\end{itemize}
 "quelque chose" a cassé le processus.
 
-• \textbf{L\textquotesingle objectif :} C\textquotesingle est un retour
+\begin{itemize}
+\item \textbf{L\textquotesingle objectif :} C\textquotesingle est un retour
+\end{itemize}
 vers le passé (revenir à l\textquotesingle état stable que
 l\textquotesingle on connaissait).
 
-• \textbf{Le mot-clé :Réactivité}. On parle de "Correctif".
+\begin{itemize}
+\item \textbf{Le mot-clé :Réactivité}. On parle de "Correctif".
 
-• \textbf{Analogie :} Un athlète qui court habituellement le 100m en 10
+\item \textbf{Analogie :} Un athlète qui court habituellement le 100m en 10
+\end{itemize}
 secondes (objectif atteint) et
 
 qui, suite à une blessure, tombe à 15 secondes. La 8D,
@@ -883,20 +687,28 @@ court à nouveau en 10 secondes.
 
 \textbf{2. Le DMAIC : La gestion du Projet (Rupture)}
 
-• \textbf{Situation :} Le processus est stable, il n\textquotesingle y a
+\begin{itemize}
+\item \textbf{Situation :} Le processus est stable, il n\textquotesingle y a
+\end{itemize}
 pas de "panne", mais le niveau actuel ne suffit plus
 
 pour être compétitif.
 
-• \textbf{L\textquotesingle objectif :} C\textquotesingle est un bond
+\begin{itemize}
+\item \textbf{L\textquotesingle objectif :} C\textquotesingle est un bond
+\end{itemize}
 vers le futur (atteindre un niveau de performance jamais atteint
 
 auparavant).
 
-• \textbf{Le mot-clé :Proactif}. On parle d\textquotesingle{}
+\begin{itemize}
+\item \textbf{Le mot-clé :Proactif}. On parle d\textquotesingle{}
+\end{itemize}
 Amélioration de rupture (Breakthrough).
 
-• \textbf{Analogie :} Le même athlète court toujours en 10 secondes
+\begin{itemize}
+\item \textbf{Analogie :} Le même athlète court toujours en 10 secondes
+\end{itemize}
 (stable), mais pour gagner les JO,
 
 il doit passer à 9,7 secondes. Il ne s\textquotesingle agit pas de
@@ -928,15 +740,14 @@ sait déjà faire ? →, DMAIC
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image4.png}
+ \textit{Original image path: media/image4.png}
 \end{minipage}}
 \end{center}
-
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image5.png}
+ \textit{Original image path: media/image5.png}
 \end{minipage}}
 \end{center}
 
@@ -968,13 +779,19 @@ Situation actuelle
 \end{quote}
 \end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{quote}
-• Mécontentement des donneurs d'ordres : retards de livraison et coût
+\begin{itemize}
+\item Mécontentement des donneurs d'ordres : retards de livraison et coût
+\end{itemize}
 élevé des défauts qualité.
 
-• Menace de changement de fournisseur sous 6 mois si la situation n'est
+\begin{itemize}
+\item Menace de changement de fournisseur sous 6 mois si la situation n'est
+\end{itemize}
 pas redressée.
 
-• Performance technique : 45 pannes/mois, temps de change ment de
+\begin{itemize}
+\item Performance technique : 45 pannes/mois, temps de change ment de
+\end{itemize}
 référence de 3h, délai de livraison moyen de 7 jours.
 \end{quote}
 \end{minipage} \\
@@ -988,11 +805,13 @@ Situation future
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 \begin{quote}
-•\\
-•\\
-•\\
-•
-\end{quote}\strut
+\begin{itemize}
+\item \\
+\item \\
+\item \\
+\item 
+\end{itemize}
+\end{quote}
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 \begin{quote}
 Clients satisfaits et fidélisés grâce à une meilleure fiabilité.
@@ -1013,7 +832,7 @@ temps
 
 \begin{quote}
 SMED.
-\end{quote}\strut
+\end{quote}
 \end{minipage} \\
 \begin{minipage}[t]{\linewidth}\raggedright
 \begin{quote}
@@ -1021,11 +840,13 @@ Objectif
 \end{quote}
 \end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{quote}
-• Réduction du coût de revient de 15\%.
+\begin{itemize}
+\item Réduction du coût de revient de 15\%.
 
-• Réduction des délais de livraison de 20\%.
+\item Réduction des délais de livraison de 20\%.
 
-• Augmentation de la marge à plus de 20\%.
+\item Augmentation de la marge à plus de 20\%.
+\end{itemize}
 \end{quote}
 \end{minipage} \\
 \begin{minipage}[t]{\linewidth}\raggedright
@@ -1034,11 +855,13 @@ Objectif
 \end{quote}
 \end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{quote}
-• Sponsor : Directeur Général (DG) de Robotica.
+\begin{itemize}
+\item Sponsor : Directeur Général (DG) de Robotica.
 
-• Leader : Responsable Excellence Opérationnelle (EO).
+\item Leader : Responsable Excellence Opérationnelle (EO).
 
-• Partenaires : Équipes R\&D (Allemagne) et Production/Montage (France).
+\item Partenaires : Équipes R\&D (Allemagne) et Production/Montage (France).
+\end{itemize}
 \end{quote}
 \end{minipage} \\
 \begin{minipage}[t]{\linewidth}\raggedright
@@ -1047,9 +870,11 @@ macro planning
 \end{quote}
 \end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{quote}
-• Remise du rapport de diagnostic : sous 20 heures.
+\begin{itemize}
+\item Remise du rapport de diagnostic : sous 20 heures.
 
-• Phase de redressement globale : maximum 6 mois.
+\item Phase de redressement globale : maximum 6 mois.
+\end{itemize}
 \end{quote}
 \end{minipage} \\
 \begin{minipage}[t]{\linewidth}\raggedright
@@ -1058,22 +883,30 @@ risque de projet
 \end{quote}
 \end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{quote}
-• Perte définitive des clients majeurs si le délai de 6 mois n'est pas
+\begin{itemize}
+\item Perte définitive des clients majeurs si le délai de 6 mois n'est pas
+\end{itemize}
 respecté.
 
-• Instabilité critique de la production due au nombre élevé de pannes
+\begin{itemize}
+\item Instabilité critique de la production due au nombre élevé de pannes
+\end{itemize}
 (45/mois).
 
-• Inflexibilité face à la variation de la demande (60 à 100 commandes).
+\begin{itemize}
+\item Inflexibilité face à la variation de la demande (60 à 100 commandes).
+\end{itemize}
 \end{quote}
 \end{minipage} \\
 Plan de commmunication & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{quote}
-• Reporting direct et immédiat au DG (diagnostic sous 20h).
+\begin{itemize}
+\item Reporting direct et immédiat au DG (diagnostic sous 20h).
 
-• Coordination inter-sites entre la R\&D allemande et l'usine française.
+\item Coordination inter-sites entre la R\&D allemande et l'usine française.
 
-• Suivi mensuel des indicateurs clés (KPI) de performance pour les
+\item Suivi mensuel des indicateurs clés (KPI) de performance pour les
+\end{itemize}
 donneurs
 
 d'ordres.
@@ -1093,7 +926,9 @@ d'ordres.
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
-•
+\begin{itemize}
+\item 
+\end{itemize}
 \end{minipage} &
 \multicolumn{2}{>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.6667} + 2\tabcolsep}@{}}{%
 \begin{minipage}[b]{\linewidth}\raggedright
@@ -1105,7 +940,9 @@ Equipe de projet :
 
 \bottomrule\noalign{}
 
-• &
+\begin{itemize}
+\item &
+\end{itemize}
 \multicolumn{2}{>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.6667} + 2\tabcolsep}@{}}{%
 \begin{minipage}[t]{\linewidth}\raggedright
 \begin{quote}
@@ -1137,7 +974,9 @@ I\ldots\ldots\ldots\ldots{}
 C\ldots\ldots\ldots.
 \end{quote}
 \end{minipage} \\
-• &
+\begin{itemize}
+\item &
+\end{itemize}
 \multicolumn{2}{>{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.6667} + 2\tabcolsep}@{}}{%
 \begin{minipage}[t]{\linewidth}\raggedright
 \begin{quote}
@@ -1148,7 +987,7 @@ Risque du projet :
 
 \begin{quote}
 
-\end{quote}\strut
+\end{quote}
 \end{minipage} \\
 \midrule\noalign{}
 \endhead
@@ -1156,140 +995,140 @@ Risque du projet :
 \endlastfoot
 \end{longtable}
 
-
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image7.png}
+ \textit{Original image path: media/image7.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image8.png}
+ \textit{Original image path: media/image8.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image9.png}
+ \textit{Original image path: media/image9.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image10.png}
+ \textit{Original image path: media/image10.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image11.png}
+ \textit{Original image path: media/image11.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image12.png}
+ \textit{Original image path: media/image12.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image13.png}
+ \textit{Original image path: media/image13.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image4.png}
+ \textit{Original image path: media/image4.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image14.png}
+ \textit{Original image path: media/image14.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image15.png}
+ \textit{Original image path: media/image15.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image16.png}
+ \textit{Original image path: media/image16.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image17.png}
+ \textit{Original image path: media/image17.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image18.png}
+ \textit{Original image path: media/image18.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image19.png}
+ \textit{Original image path: media/image19.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image5.png}
+ \textit{Original image path: media/image5.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image20.png}
+ \textit{Original image path: media/image20.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image21.png}
+ \textit{Original image path: media/image21.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image22.png}
+ \textit{Original image path: media/image22.png}
 \end{minipage}}
 \end{center}
-
 
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 \begin{quote}
-• Plan de communication :\\
+\begin{itemize}
+\item Plan de communication :\\
+\end{itemize}
 \textbf{Mesurer} Taux de client
 
 Mesure de Kpi's :\\
@@ -1297,22 +1136,28 @@ Mesure de Kpi's :\\
 
 Objectif \hl{Voix du client :} CTQ( critical to quality ) =KPI\\
 Voix du proess : Taux de satisfaction client :\\
-• KPI délai\\
-•\\
+\begin{itemize}
+\item KPI délai\\
+\item \\
+\end{itemize}
 Cout • Taux de conformité
 
-\textbf{Synthèse Globale}\\
+\textbf{Synthèse Globale}
+
 Le total du Chiffre d\textquotesingle Affaires (CA) est de 60 386 360
 pour une Quantité Totale vendue de 528 161 unités, réparties sur 1 456
 transactions. La base de données couvre 10 produits uniques et 5 clients
 uniques.
 
-\textbf{1. Prise de Vue Générale et Concentration des Revenus}\\
+\textbf{1. Prise de Vue Générale et Concentration des Revenus}
+
 L\textquotesingle analyse révèle une forte concentration du Chiffre
 d\textquotesingle Affaires, tant au niveau des produits
 qu\textquotesingle au niveau des clients.
 
-• \textbf{Concentration des Produits :} Les \textbf{5 premiers produits}
+\begin{itemize}
+\item \textbf{Concentration des Produits :} Les \textbf{5 premiers produits}
+\end{itemize}
 (sur 10) génèrent \textbf{67.66\%} du Chiffre d\textquotesingle Affaires
 total.
 
@@ -1325,14 +1170,16 @@ rapport aux autres produits du Top 5, ce qui suggère
 qu\textquotesingle ils sont des articles à forte rotation ou à volume
 élevé.
 
-• \textbf{Concentration des Clients :} Étant donné qu\textquotesingle il
+\begin{itemize}
+\item \textbf{Concentration des Clients :} Étant donné qu\textquotesingle il
+\end{itemize}
 n\textquotesingle y a que 5 clients uniques, le top 5 des clients génère
 logiquement \textbf{100.00\%} du CA total.
 
 o Les trois principaux clients sont \textbf{Staübli}, \textbf{Kawasaki}
 et \textbf{ABB}, qui contribuent ensemble à la majeure partie du Chiffre
 d\textquotesingle Affaires.
-\end{quote}\strut
+\end{quote}
 \end{minipage} \\
 \midrule\noalign{}
 \endhead
@@ -1349,18 +1196,16 @@ d\textquotesingle Affaires.
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image4.png}
+ \textit{Original image path: media/image4.png}
 \end{minipage}}
 \end{center}
-
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image5.png}
+ \textit{Original image path: media/image5.png}
 \end{minipage}}
 \end{center}
-
 
 \textbf{2. Performance Détaillée}
 \end{quote}
@@ -1452,7 +1297,7 @@ Staübli
 
 \bottomrule\noalign{}
 
-\end{tabular}\strut
+\end{tabular}
 \end{minipage} \\
 \midrule\noalign{}
 
@@ -1578,11 +1423,13 @@ Total
 D\textquotesingle un point de vue de gestionnaire industriel ou de data
 analyst, cette répartition impose des stratégies différenciées :
 
-• \textbf{Gestion des Stocks :} Pour \textbf{P02} et \textbf{P10}, une
+\begin{itemize}
+\item \textbf{Gestion des Stocks :} Pour \textbf{P02} et \textbf{P10}, une
+\end{itemize}
 rupture de stock serait catastrophique. Ils nécessitent un suivi
 rigoureux (inventaire permanent, stock de sécurité optimisé). Pour les
 autres, une gestion sur commande ou un stock minimal suffit.
-\end{quote}\strut
+\end{quote}
 \end{minipage} \\
 \midrule\noalign{}
 \endhead
@@ -1599,26 +1446,29 @@ autres, une gestion sur commande ou un stock minimal suffit.
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image4.png}
+ \textit{Original image path: media/image4.png}
 \end{minipage}}
 \end{center}
-•\textbf{Optimisation
+\begin{itemize}
+\item \textbf{Optimisation
+\end{itemize}
 de la Production :} Il est probable que vos lignes de production soient
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image5.png}
+ \textit{Original image path: media/image5.png}
 \end{minipage}}
 \end{center}
-
 
 quasi exclusivement configurées pour P02 et P10. Le passage à la
 production des autres références (comme P01) génère probablement des
 "temps de changement de série" (SMED) coûteux par rapport au volume
 produit.
 
-• \textbf{Analyse de Rentabilité :} Il serait intéressant de vérifier si
+\begin{itemize}
+\item \textbf{Analyse de Rentabilité :} Il serait intéressant de vérifier si
+\end{itemize}
 ces deux produits à fort volume sont aussi ceux qui génèrent le plus de
 marge, ou s\textquotesingle ils servent de "produits
 d\textquotesingle appel".
@@ -1779,8 +1629,10 @@ P10
 En croisant cette analyse avec celle des quantités, on peut tirer des
 conclusions stratégiques importantes :
 
-• \textbf{Stratégie Volume vs. Valeur :}
+\begin{itemize}
+\item \textbf{Stratégie Volume vs. Valeur :}
 
+\end{itemize}
 o \textbf{P02 et P10} sont vos produits de \textbf{flux} (grande
 consommation, faible prix unitaire, rotation rapide).
 
@@ -1788,13 +1640,17 @@ o \textbf{P04, P07 et P08} sont vos produits de \textbf{spécialité}
 (haute valeur unitaire, probablement plus complexes à produire ou
 destinés à des besoins spécifiques).
 
-• \textbf{Risque Client/Produit :} Notre rentabilité est mieux répartie
+\begin{itemize}
+\item \textbf{Risque Client/Produit :} Notre rentabilité est mieux répartie
+\end{itemize}
 que votre production. Si la demande pour P02 chute,
 l\textquotesingle impact sur votre CA sera moins violent que
 l\textquotesingle impact sur votre charge de travail en usine, car les
 autres produits soutiennent efficacement la structure financière.
 
-• \textbf{Analyse du Prix Unitaire :} On constate un écart massif. Par
+\begin{itemize}
+\item \textbf{Analyse du Prix Unitaire :} On constate un écart massif. Par
+\end{itemize}
 exemple, le produit \textbf{P01} (2,7 millions de CA pour seulement 107
 unités) a un prix unitaire environ \textbf{650 fois plus élevé} que le
 produit \textbf{P02}.
@@ -1806,77 +1662,75 @@ produit \textbf{P02}.
 \endlastfoot
 \end{longtable}
 
-
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image23.png}
+ \textit{Original image path: media/image23.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image4.png}
+ \textit{Original image path: media/image4.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image14.png}
+ \textit{Original image path: media/image14.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image15.png}
+ \textit{Original image path: media/image15.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image16.png}
+ \textit{Original image path: media/image16.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image17.png}
+ \textit{Original image path: media/image17.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image18.png}
+ \textit{Original image path: media/image18.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image19.png}
+ \textit{Original image path: media/image19.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image5.png}
+ \textit{Original image path: media/image5.png}
 \end{minipage}}
 \end{center}
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image20.png}
+ \textit{Original image path: media/image20.png}
 \end{minipage}}
 \end{center}
-
 
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 0\tabcolsep) * \real{1.0000}}@{}}
@@ -2033,18 +1887,16 @@ qu\textquotesingle une réduction de 20\% sur P01.
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image4.png}
+ \textit{Original image path: media/image4.png}
 \end{minipage}}
 \end{center}
-
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image5.png}
+ \textit{Original image path: media/image5.png}
 \end{minipage}}
 \end{center}
-
 
 Après avoir réalisé des graphiques quantitatifs on peut passer a la
 partie d'implantation par cela on trouve que les produit ayant le plus
@@ -2052,20 +1904,17 @@ grand impact sont P02 et P10 c'est pour cela on a décidé de zoomer et
 voir la partie temporelle :
 \end{quote}
 
-
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image24.png}
+ \textit{Original image path: media/image24.png}
 \end{minipage}}
 \end{center}
 
-
-
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image25.png}
+ \textit{Original image path: media/image25.png}
 \end{minipage}}
 \end{center}
 
@@ -2085,18 +1934,16 @@ voir la partie temporelle :
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image4.png}
+ \textit{Original image path: media/image4.png}
 \end{minipage}}
 \end{center}
-
 
 \begin{center}
 \fbox{\begin{minipage}{0.9\linewidth}\centering
 \textbf{[PLACEHOLDER: Add image here]}
-\\ \textit{Original image path: media/image5.png}
+ \textit{Original image path: media/image5.png}
 \end{minipage}}
 \end{center}
-
 
 Pour essayer de resume
 
@@ -2108,7 +1955,7 @@ MLT = \hl{Temps de machine + Temps de chargement de format + Temps des
 en cours} + \hl{Temps Attente} \hl{+ Temps déplacement}\\
 TVA/MLT = TVA/(TVA+TNVA) SI = 1 LEAN SI \textgreater1 NON-APPLICATION DU
 LEAN CAR TNVA TROP IMPORTANT
-\end{quote}\strut
+\end{quote}
 \end{minipage} \\
 \midrule\noalign{}
 \endhead
@@ -2117,4 +1964,3 @@ LEAN CAR TNVA TROP IMPORTANT
 \end{longtable}
 
 \end{document}
-
