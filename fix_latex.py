@@ -1,83 +1,108 @@
 #!/usr/bin/env python3
 """
-Script to fix common LaTeX issues in the document.
+Script to verify LaTeX document formatting.
+This script checks the improved LaTeX document for common issues.
 """
 
 import re
+import sys
 
-def fix_latex_document(content):
-    """Fix various LaTeX issues in the document."""
+def check_latex_document(content):
+    """Check LaTeX document for potential issues."""
     
-    # 1. Remove \strut commands that are outside proper context
-    content = re.sub(r'\\end{quote}\\strut\s*\\end{minipage}', r'\\end{quote}\n\\end{minipage}', content)
-    content = re.sub(r'\\end{tabular}\\strut\s*\\end{minipage}', r'\\end{tabular}\n\\end{minipage}', content)
-    content = re.sub(r'\\strut', '', content)
+    issues = []
     
-    # 2. Fix French typography - replace straight quotes with guillemets where appropriate
-    # Already using \textquotesingle correctly, but let's clean up simple quotes in text
+    # Check for A4 paper geometry
+    if 'a4paper' not in content.lower():
+        issues.append("⚠ Warning: No A4 paper specification found")
     
-    # 3. Fix itemization - replace bullet points with proper \item
-    # Pattern: lines starting with • 
-    lines = content.splitlines()
-    fixed_lines = []
-    in_itemize = False
+    # Check for geometry package
+    if ('\\usepackage{geometry}' not in content and '\\usepackage[' not in content) or 'geometry' not in content:
+        issues.append("⚠ Warning: geometry package not found")
     
-    for i, line in enumerate(lines):
-        stripped = line.strip()
-        
-        # Check if line starts with bullet point
-        if stripped.startswith('• ') or stripped.startswith('•'):
-            if not in_itemize:
-                # Start itemize environment before this line
-                # Add it before the current line
-                indent = len(line) - len(line.lstrip())
-                fixed_lines.append(' ' * indent + '\\begin{itemize}')
-                in_itemize = True
-            # Replace bullet with \item
-            fixed_line = re.sub(r'^(\s*)•\s*', r'\1\\item ', line)
-            fixed_lines.append(fixed_line)
-        else:
-            # If we were in itemize and this line doesn't start with bullet, close it
-            if in_itemize and stripped and not stripped.startswith('\\item'):
-                indent = len(line) - len(line.lstrip())
-                fixed_lines.append(' ' * indent + '\\end{itemize}')
-                in_itemize = False
-            fixed_lines.append(line)
+    # Check for French language support
+    if 'babel' not in content or 'french' not in content:
+        issues.append("⚠ Warning: French language support (babel) not found")
     
-    # Close itemize if still open at end
-    if in_itemize:
-        fixed_lines.append('\\end{itemize}')
+    # Check for table packages
+    if 'booktabs' not in content:
+        issues.append("⚠ Warning: booktabs package not found (recommended for tables)")
     
-    content = '\n'.join(fixed_lines)
+    # Check for hyperref
+    if 'hyperref' not in content:
+        issues.append("⚠ Warning: hyperref package not found")
     
-    # 4. Fix "3 -ème" to "3\ieme{}" or "3\up{ème}"
-    content = re.sub(r'3\s*-\s*ème', r'3\\up{ème}', content)
+    # Check document structure
+    if '\\section' not in content:
+        issues.append("⚠ Warning: No \\section commands found")
     
-    # 5. Clean up excessive blank lines
-    content = re.sub(r'\n\n\n+', r'\n\n', content)
+    if '\\tableofcontents' not in content:
+        issues.append("⚠ Warning: No table of contents")
     
-    # 6. Fix spacing around section titles
-    content = re.sub(r'(\\textbf{[^}]+})\s*\\\\', r'\1\n', content)
+    # Check for color definitions
+    if 'definecolor' not in content:
+        issues.append("ℹ Info: No custom colors defined")
     
-    return content
+    # Check for headers/footers
+    if 'fancyhdr' not in content:
+        issues.append("ℹ Info: fancyhdr package not found (headers/footers)")
+    
+    return issues
 
 def main():
-    input_file = "the main latex code"
-    output_file = "the main latex code"
+    """Check the improved LaTeX document."""
     
-    print("Reading LaTeX file...")
-    with open(input_file, 'r', encoding='utf-8') as f:
-        content = f.read()
+    files_to_check = ['document.tex', 'improved_document.tex', 'the main latex code']
     
-    print("Applying fixes...")
-    fixed_content = fix_latex_document(content)
+    print("=" * 60)
+    print("LaTeX Document Verification Tool")
+    print("=" * 60)
+    print()
     
-    print("Writing fixed file...")
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(fixed_content)
+    for filename in files_to_check:
+        try:
+            print(f"Checking: {filename}")
+            print("-" * 60)
+            
+            with open(filename, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            issues = check_latex_document(content)
+            
+            if not issues:
+                print("✓ Document looks good! All recommended packages found.")
+            else:
+                print(f"Found {len(issues)} issue(s):")
+                for issue in issues:
+                    print(f"  {issue}")
+            
+            # Statistics
+            lines = content.count('\n') + 1
+            chars = len(content)
+            sections = content.count('\\section')
+            subsections = content.count('\\subsection')
+            tables = content.count('\\begin{table') + content.count('\\begin{tabular')
+            
+            print()
+            print(f"Statistics:")
+            print(f"  Lines: {lines}")
+            print(f"  Characters: {chars}")
+            print(f"  Sections: {sections}")
+            print(f"  Subsections: {subsections}")
+            print(f"  Tables: {tables}")
+            print()
+            
+        except FileNotFoundError:
+            print(f"  ✗ File not found: {filename}")
+            print()
+        except Exception as e:
+            print(f"  ✗ Error: {e}")
+            print()
     
-    print("Done! File has been fixed.")
-    print(f"Removed {content.count('\\\\strut') - fixed_content.count('\\\\strut')} \\strut commands")
+    print("=" * 60)
+    print("Verification complete!")
+    print("=" * 60)
 
 if __name__ == "__main__":
     main()
+
